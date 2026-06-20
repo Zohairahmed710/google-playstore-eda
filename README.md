@@ -34,3 +34,6 @@ This is my second public portfolio project.
 ## Links
 - [Kaggle Notebook](https://www.kaggle.com/qnqfbqfqo) 
 - [Titanic EDA Repository](https://github.com/Zohairahmed710/titanic-eda)
+- [Titanic EDA Notebook](https://www.kaggle.com/code/qnqfbqfqo/titanic-eda)
+- [Google Playstore Kaggle](https://www.kaggle.com/code/qnqfbqfqo/google-playstore-eda)
+- 
