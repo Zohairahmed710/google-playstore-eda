@@ -32,5 +32,5 @@ I’m a 16‑year‑old self‑taught data analyst from Pakistan, learning Pytho
 This is my second public portfolio project.
 
 ## Links
-- [Kaggle Notebook](#) (add your link)
-- [Titanic EDA Repository](#) (add your link)
+- [Kaggle Notebook](#) ()
+- [Titanic EDA Repository](#https://github.com/Zohairahmed710/titanic-eda) (add your link)
